@@ -1,7 +1,8 @@
-Speed controller for brushed motor.
+Speed controller for brushed motor. 
+Input signal is standard servo signal from rc receiver.
 I use it for 8520 coreless motor on my plane.
 
-Arduino nano (Atmega 328P)
+Arduino (Atmega 328P)
 
 Build:
 
